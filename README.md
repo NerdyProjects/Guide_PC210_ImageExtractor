@@ -10,3 +10,8 @@ The byte order does not seem constant, as for the different sample images you ne
 Maybe somebody is up for analyzing this a bit further? :-)
 
 After the pixel data there is a json blob with meta data.
+
+
+## examples
+![](IRI_20221009_080550.jpg)
+![](tmphbcqj97c.PNG)
